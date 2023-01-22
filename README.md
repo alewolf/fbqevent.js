@@ -26,7 +26,7 @@ Newer versions of the `fbevents.js` script can be retrieved by adding the `v` pa
 
 Only released versions can be retrieved that way. If a specified version never was released, Facebook will return the latest version. 
 
-The full ULR with version parameter is: https://connect.facebook.net/en_US/fbevents.js?v=2.9.84
+The full url with version parameter is: https://connect.facebook.net/en_US/fbevents.js?v=2.9.84
 
 If you like to link a specific version through the GitHub CDN of this repo use the following link pattern: 
 

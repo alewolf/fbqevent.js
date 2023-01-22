@@ -12,3 +12,13 @@ At the time when this repo was created I had to search the net for older version
 - 2.8.14: https://github.com/popoiopo/dataMining/blob/master/Using%20Python%20to%20place%20in%20the%20top%2015%20of%20the%20Kaggle%20Expedia%20competition_files/fbevents.js.download
 - 2.8.0: https://3sdigital.com.br/imagem/Pagar%20por%20BoletoReceipt%20Payment_files/fbevents.js.download
 - 2.5.1: https://gist.github.com/sunderls/dfd5293a8b8f24a4ef37189a1d8c1b46
+
+## CDN
+
+If you like to link a specific version through the GitHub CDN use the following link pattern: 
+
+https://cdn.jsdelivr.net/gh/alewolf/fbqevent.js/versions/2.9.84.js
+
+## Contribute
+
+If you have another version that you like to add to the repo, please send a PR.

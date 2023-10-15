@@ -7,6 +7,7 @@ This is a version history of `fbevents.js`.
 At the time when this repo was created I had to search the net for older versions of `fbevents.js`. This is a list of the sources of the older versions. When possible, I will try to get the version from facebook.net directly. 
 
 - Latest version: https://connect.facebook.net/en_US/fbevents.js
+- 2.9.134 (15.10.2023): https://connect.facebook.net/en_US/fbevents.js?=v2.9.134
 - 2.9.121 (05.08.2023): https://connect.facebook.net/en_US/fbevents.js?=v2.9.121
 - 2.9.94  (22.01.2023): https://connect.facebook.net/en_US/fbevents.js?=v2.9.94
 - 2.9.93  (22.01.2023): https://connect.facebook.net/en_US/fbevents.js?v=2.9.93
